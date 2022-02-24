@@ -1,0 +1,1580 @@
+{
+    "animals": [
+        {
+            "id": 54709741,
+            "organization_id": "OH483",
+            "url": "https:\/\/www.petfinder.com\/dog\/nala-54709741\/oh\/heath\/licking-county-humane-society-oh483\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nala",
+            "description": null,
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709741\/1\/?bust=1645546220"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:21+0000",
+            "published_at": "2022-02-22T16:10:21+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@lchspets.org",
+                "phone": "740-323-2100   ",
+                "address": {
+                    "address1": "825 Thornwood Dr",
+                    "address2": null,
+                    "city": "Heath",
+                    "state": "OH",
+                    "postcode": "43055",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709741"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/oh483"
+                }
+            }
+        },
+        {
+            "id": 54709740,
+            "organization_id": "MO760",
+            "url": "https:\/\/www.petfinder.com\/dog\/aviation-54709740\/mo\/st-louis\/center-for-animal-rescue-and-enrichment-of-st-louis-mo760\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brindle",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Aviation",
+            "description": null,
+            "organization_animal_id": "CARE-A-6511",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:18+0000",
+            "published_at": "2022-02-22T16:10:18+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@icarestl.org",
+                "phone": "(314) 696-2444",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "postcode": "63103",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709740"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo760"
+                }
+            }
+        },
+        {
+            "id": 54709739,
+            "organization_id": "NY1378",
+            "url": "https:\/\/www.petfinder.com\/dog\/drake-54709739\/ny\/ballston-spa\/saratoga-county-animal-shelter-ny1378\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": "Husky",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Drake",
+            "description": "Meet Drake! This Husky\/Pitty Mix is ready for a new home. He is a friendly boy who enjoys going for...",
+            "organization_animal_id": "SCAS-A-3915",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:15+0000",
+            "published_at": "2022-02-22T16:10:15+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalshelter@saratogacountyny.gov",
+                "phone": "(518) 885-4113",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Ballston Spa",
+                    "state": "NY",
+                    "postcode": "12020",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709739"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ny1378"
+                }
+            }
+        },
+        {
+            "id": 54709737,
+            "organization_id": "MO689",
+            "url": "https:\/\/www.petfinder.com\/dog\/ruby-54709737\/mo\/kansas-city\/lucky-13-rescue-inc-mo689\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": "Labrador Retriever",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Good with Dogs",
+                "Housetrained",
+                "Shy Takes Time"
+            ],
+            "name": "Ruby",
+            "description": "Ruby\n\nThis one year old lab\/pit mix is very shy, but her extreme sweetness eventually wins out given the opportunity...",
+            "organization_animal_id": "LUCK-A-607",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:14+0000",
+            "published_at": "2022-02-22T16:10:14+0000",
+            "distance": null,
+            "contact": {
+                "email": "foster@lucky13rescue.org",
+                "phone": "(816) 313-8229",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "postcode": "64114",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709737"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo689"
+                }
+            }
+        },
+        {
+            "id": 54709734,
+            "organization_id": "PA339",
+            "url": "https:\/\/www.petfinder.com\/dog\/birch-54709734\/pa\/pittsburgh\/humane-animal-rescue-north-pa339\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Operation Petsburgh"
+            ],
+            "name": "Birch",
+            "description": null,
+            "organization_animal_id": "PGH-A-91897",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:12+0000",
+            "published_at": "2022-02-22T16:10:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptnorth@humaneanimalrescue.org",
+                "phone": "(412) 345-7300 ext. 251",
+                "address": {
+                    "address1": "1101 Western Avenue",
+                    "address2": "North location",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "postcode": "15233",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709734"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/pa339"
+                }
+            }
+        },
+        {
+            "id": 54709735,
+            "organization_id": "PA339",
+            "url": "https:\/\/www.petfinder.com\/dog\/oak-54709735\/pa\/pittsburgh\/humane-animal-rescue-north-pa339\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Operation Petsburgh"
+            ],
+            "name": "Oak",
+            "description": "Hi, I\u0026amp;#39;m Oak! My adoption fee is $385 which includes my vaccinations, spay\/neuter surgery and microchip, as well as a...",
+            "organization_animal_id": "PGH-A-91890",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:12+0000",
+            "published_at": "2022-02-22T16:10:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptnorth@humaneanimalrescue.org",
+                "phone": "(412) 345-7300 ext. 251",
+                "address": {
+                    "address1": "1101 Western Avenue",
+                    "address2": "North location",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "postcode": "15233",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709735"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/pa339"
+                }
+            }
+        },
+        {
+            "id": 54709736,
+            "organization_id": "PA339",
+            "url": "https:\/\/www.petfinder.com\/dog\/hickory-54709736\/pa\/pittsburgh\/humane-animal-rescue-north-pa339\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Operation Petsburgh"
+            ],
+            "name": "Hickory",
+            "description": "Hi, I\u0026amp;#39;m Hickory! My adoption fee is $385 which includes my vaccinations, spay\/neuter surgery and microchip, as well as a...",
+            "organization_animal_id": "PGH-A-91898",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:12+0000",
+            "published_at": "2022-02-22T16:10:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptnorth@humaneanimalrescue.org",
+                "phone": "(412) 345-7300 ext. 251",
+                "address": {
+                    "address1": "1101 Western Avenue",
+                    "address2": "North location",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "postcode": "15233",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709736"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/pa339"
+                }
+            }
+        },
+        {
+            "id": 54709730,
+            "organization_id": "MO107",
+            "url": "https:\/\/www.petfinder.com\/dog\/mikey-54709730\/mo\/saint-charles\/five-acres-animal-shelter-mo107\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brindle",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Mikey",
+            "description": null,
+            "organization_animal_id": "FAAS-A-9231",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:11+0000",
+            "published_at": "2022-02-22T16:10:11+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@fiveacresanimalshelter.org",
+                "phone": "(636) 949-9918",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Saint Charles",
+                    "state": "MO",
+                    "postcode": "63303",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709730"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo107"
+                }
+            }
+        },
+        {
+            "id": 54709729,
+            "organization_id": "FL171",
+            "url": "https:\/\/www.petfinder.com\/dog\/cookie-54709729\/fl\/labelle\/caloosa-humane-society-inc-fl171\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Treeing Walker Coonhound",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Heartworm positive under treatment call shelter for more info",
+                "Likes treats"
+            ],
+            "name": "Cookie",
+            "description": null,
+            "organization_animal_id": "CALO-A-4392",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:10:09+0000",
+            "published_at": "2022-02-22T16:10:09+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@caloosahumanesociety.org",
+                "phone": "(863) 675-0997",
+                "address": {
+                    "address1": "1200 Pratt Blvd.    (SHIPPING)",
+                    "address2": null,
+                    "city": "Labelle",
+                    "state": "FL",
+                    "postcode": "33975",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709729"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/fl171"
+                }
+            }
+        },
+        {
+            "id": 54709726,
+            "organization_id": "OH483",
+            "url": "https:\/\/www.petfinder.com\/dog\/luna-54709726\/oh\/heath\/licking-county-humane-society-oh483\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Luna",
+            "description": null,
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709726\/1\/?bust=1645546172"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:09:34+0000",
+            "published_at": "2022-02-22T16:09:34+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@lchspets.org",
+                "phone": "740-323-2100   ",
+                "address": {
+                    "address1": "825 Thornwood Dr",
+                    "address2": null,
+                    "city": "Heath",
+                    "state": "OH",
+                    "postcode": "43055",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709726"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/oh483"
+                }
+            }
+        },
+        {
+            "id": 54709721,
+            "organization_id": "OH483",
+            "url": "https:\/\/www.petfinder.com\/dog\/river-54709721\/oh\/heath\/licking-county-humane-society-oh483\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "River",
+            "description": null,
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709721\/1\/?bust=1645546127"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:08:49+0000",
+            "published_at": "2022-02-22T16:08:49+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@lchspets.org",
+                "phone": "740-323-2100   ",
+                "address": {
+                    "address1": "825 Thornwood Dr",
+                    "address2": null,
+                    "city": "Heath",
+                    "state": "OH",
+                    "postcode": "43055",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709721"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/oh483"
+                }
+            }
+        },
+        {
+            "id": 54709719,
+            "organization_id": "CA12",
+            "url": "https:\/\/www.petfinder.com\/dog\/macduff-54709719\/ca\/carlsbad\/animal-rescue-resource-foundation-arrf-ca12\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Scottish Terrier",
+                "secondary": "Pug",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brindle",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Affectionate",
+                "Playful",
+                "Curious",
+                "Funny",
+                "Loves kisses"
+            ],
+            "name": "MacDuff",
+            "description": "Adorable pups! ARRF thinks MacDuff and his brothers and sisters are a mix of Scottish Terrier and Pug. They were...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/2\/?bust=1645546091\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/2\/?bust=1645546091\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/2\/?bust=1645546091\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/2\/?bust=1645546091"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/3\/?bust=1645546092\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/3\/?bust=1645546092\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/3\/?bust=1645546092\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/3\/?bust=1645546092"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/4\/?bust=1645546092\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/4\/?bust=1645546092\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/4\/?bust=1645546092\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/4\/?bust=1645546092"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/5\/?bust=1645546093\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/5\/?bust=1645546093\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/5\/?bust=1645546093\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/5\/?bust=1645546093"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709719\/1\/?bust=1645546091"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:08:15+0000",
+            "published_at": "2022-02-22T16:08:15+0000",
+            "distance": null,
+            "contact": {
+                "email": "arrfsandiegoweb@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Carlsbad",
+                    "state": "CA",
+                    "postcode": "92011",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709719"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca12"
+                }
+            }
+        },
+        {
+            "id": 54709717,
+            "organization_id": "OH483",
+            "url": "https:\/\/www.petfinder.com\/dog\/ridge-54709717\/oh\/heath\/licking-county-humane-society-oh483\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Ridge",
+            "description": null,
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709717\/1\/?bust=1645546084"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:08:05+0000",
+            "published_at": "2022-02-22T16:08:05+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@lchspets.org",
+                "phone": "740-323-2100   ",
+                "address": {
+                    "address1": "825 Thornwood Dr",
+                    "address2": null,
+                    "city": "Heath",
+                    "state": "OH",
+                    "postcode": "43055",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709717"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/oh483"
+                }
+            }
+        },
+        {
+            "id": 54709431,
+            "organization_id": "TX2290",
+            "url": "https:\/\/www.petfinder.com\/dog\/strykerious-aka-stryker-54709431\/tx\/brownwood\/nanook-and-nakodas-big-paw-rescue-tx2290\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Australian Shepherd",
+                "secondary": "Great Pyrenees",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tricolor (Brown, Black, \u0026 White)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [
+                "Friendly",
+                "Affectionate",
+                "Loyal",
+                "Gentle",
+                "Playful",
+                "Smart",
+                "Protective",
+                "Brave",
+                "Curious",
+                "Independent",
+                "Funny",
+                "Athletic",
+                "Quiet",
+                "Dignified",
+                "Couch potato",
+                "Loves kisses"
+            ],
+            "name": "Strykerious AKA Stryker",
+            "description": "Stryker was dumped in a local parking lot one Sunday evening. I picked him up and brought him in and...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/2\/?bust=1645546059\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/2\/?bust=1645546059\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/2\/?bust=1645546059\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/2\/?bust=1645546059"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/3\/?bust=1645546060\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/3\/?bust=1645546060\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/3\/?bust=1645546060\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/3\/?bust=1645546060"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/4\/?bust=1645546062\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/4\/?bust=1645546062\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/4\/?bust=1645546062\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/4\/?bust=1645546062"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/5\/?bust=1645546064\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/5\/?bust=1645546064\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/5\/?bust=1645546064\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/5\/?bust=1645546064"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/6\/?bust=1645546065\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/6\/?bust=1645546065\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/6\/?bust=1645546065\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/6\/?bust=1645546065"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709431\/1\/?bust=1645546057"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:07:48+0000",
+            "published_at": "2022-02-22T16:07:48+0000",
+            "distance": null,
+            "contact": {
+                "email": "NANOOKNAKODASBIGPAWRESCUE@GMAIL.COM",
+                "phone": "(325) 261-3849",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Brownwood",
+                    "state": "TX",
+                    "postcode": "76801",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709431"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tx2290"
+                }
+            }
+        },
+        {
+            "id": 54709713,
+            "organization_id": "OH483",
+            "url": "https:\/\/www.petfinder.com\/dog\/misty-54709713\/oh\/heath\/licking-county-humane-society-oh483\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Pit Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray \/ Blue \/ Silver",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Misty",
+            "description": null,
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/2\/?bust=1645546014\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/2\/?bust=1645546014\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/2\/?bust=1645546014\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/2\/?bust=1645546014"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/3\/?bust=1645546015\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/3\/?bust=1645546015\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/3\/?bust=1645546015\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/3\/?bust=1645546015"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709713\/1\/?bust=1645546013"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:56+0000",
+            "published_at": "2022-02-22T16:06:56+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@lchspets.org",
+                "phone": "740-323-2100   ",
+                "address": {
+                    "address1": "825 Thornwood Dr",
+                    "address2": null,
+                    "city": "Heath",
+                    "state": "OH",
+                    "postcode": "43055",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709713"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/oh483"
+                }
+            }
+        },
+        {
+            "id": 54709711,
+            "organization_id": "IL698",
+            "url": "https:\/\/www.petfinder.com\/dog\/miley-54709711\/il\/huntley\/a-heart-for-animals-il698\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Boxer",
+                "secondary": "Terrier",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tricolor (Brown, Black, \u0026 White)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Affectionate",
+                "Playful",
+                "Smart"
+            ],
+            "name": "Miley",
+            "description": "Miley is about 10 weels old.  She is a darling, sweet pup that is looking for her forever family.  Adoption...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/54709711\/1\/?bust=1645545993"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:34+0000",
+            "published_at": "2022-02-22T16:06:34+0000",
+            "distance": null,
+            "contact": {
+                "email": "AHeart4AnimalsAnimalWelfare@gmail.com",
+                "phone": "(847) 868-2432",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Huntley",
+                    "state": "IL",
+                    "postcode": "60142",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709711"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/il698"
+                }
+            }
+        },
+        {
+            "id": 54709710,
+            "organization_id": "MO579",
+            "url": "https:\/\/www.petfinder.com\/dog\/gibson-54709710\/mo\/kansas-city\/kc-pet-project-mo579\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Beagle",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Gibson",
+            "description": null,
+            "organization_animal_id": "49616448",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:23+0000",
+            "published_at": "2022-02-22T16:06:23+0000",
+            "distance": null,
+            "contact": {
+                "email": "contact@kcpetproject.org",
+                "phone": "(816) 683-1383",
+                "address": {
+                    "address1": "7077 Elmwood Ave.",
+                    "address2": null,
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "postcode": "64129",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709710"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo579"
+                }
+            }
+        },
+        {
+            "id": 54709708,
+            "organization_id": "VA301",
+            "url": "https:\/\/www.petfinder.com\/dog\/49606995-54709708\/va\/chesapeake\/chesapeake-animal-services-va301\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Beagle",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "49606995",
+            "description": null,
+            "organization_animal_id": "49606995",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:23+0000",
+            "published_at": "2022-02-22T16:06:23+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalservices@cityofchesapeake.net",
+                "phone": "(757) 382-8080 ext. 1",
+                "address": {
+                    "address1": "2100 S. Military Hwy",
+                    "address2": null,
+                    "city": "Chesapeake",
+                    "state": "VA",
+                    "postcode": "23320",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709708"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/va301"
+                }
+            }
+        },
+        {
+            "id": 54709709,
+            "organization_id": "MO579",
+            "url": "https:\/\/www.petfinder.com\/dog\/akira-54709709\/mo\/kansas-city\/kc-pet-project-mo579\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Siberian Husky",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Akira",
+            "description": null,
+            "organization_animal_id": "48121609",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:22+0000",
+            "published_at": "2022-02-22T16:06:22+0000",
+            "distance": null,
+            "contact": {
+                "email": "contact@kcpetproject.org",
+                "phone": "(816) 683-1383",
+                "address": {
+                    "address1": "7077 Elmwood Ave.",
+                    "address2": null,
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "postcode": "64129",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709709"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/mo579"
+                }
+            }
+        },
+        {
+            "id": 54709703,
+            "organization_id": "SC87",
+            "url": "https:\/\/www.petfinder.com\/dog\/collette-54709703\/sc\/columbia\/pawmetto-lifeline-sc87\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": "Shepherd",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Collette",
+            "description": "Hello, my name is Collette! I\u0026amp;#39;m all grown up, and I weigh 39 pounds. \n\nMy adoption fee of $200 includes...",
+            "organization_animal_id": "49601861",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-02-22T16:06:19+0000",
+            "published_at": "2022-02-22T16:06:19+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoption@pawmettolifeline.org",
+                "phone": "(803) 465-9150",
+                "address": {
+                    "address1": "1275 Bower Parkway",
+                    "address2": null,
+                    "city": "Columbia",
+                    "state": "SC",
+                    "postcode": "29211",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/54709703"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/sc87"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 101501,
+        "current_page": 1,
+        "total_pages": 5076,
+        "_links": {
+            "next": {
+                "href": "\/v2\/animals?type=dog\u0026page=2"
+            }
+        }
+    }
+}
