@@ -1,0 +1,1565 @@
+{
+    "animals": [
+        {
+            "id": 55376749,
+            "organization_id": "NY1336",
+            "url": "https:\/\/www.petfinder.com\/dog\/willow-55376749\/ny\/huntington\/pioneers-for-animal-welfare-society-inc-paws-ny1336\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Great Pyrenees",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Extra Large",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Willow",
+            "description": "It\u2019s not often we have an entire family in need, but these sweet, beautiful faces need our help.  Mom, Willow,...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/2\/?bust=1650661161\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/2\/?bust=1650661161\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/2\/?bust=1650661161\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/2\/?bust=1650661161"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/3\/?bust=1650661162\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/3\/?bust=1650661162\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/3\/?bust=1650661162\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/3\/?bust=1650661162"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/4\/?bust=1650661162\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/4\/?bust=1650661162\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/4\/?bust=1650661162\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/4\/?bust=1650661162"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/5\/?bust=1650661163\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/5\/?bust=1650661163\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/5\/?bust=1650661163\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/5\/?bust=1650661163"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/6\/?bust=1650661163\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/6\/?bust=1650661163\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/6\/?bust=1650661163\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/6\/?bust=1650661163"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376749\/1\/?bust=1650661161"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:59:25+0000",
+            "published_at": "2022-04-22T20:59:25+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@paws-li.org",
+                "phone": "(631) 306-4616",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Huntington",
+                    "state": "NY",
+                    "postcode": "11743",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376749"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ny1336"
+                }
+            }
+        },
+        {
+            "id": 55376748,
+            "organization_id": "CA2836",
+            "url": "https:\/\/www.petfinder.com\/dog\/rose-quartz-55376748\/ca\/van-nuys\/pups-without-borders-ca2836\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Irish Wolfhound",
+                "secondary": "Old English Sheepdog",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Wire",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Affectionate",
+                "Loyal",
+                "Gentle",
+                "Playful",
+                "Smart",
+                "Curious",
+                "Funny",
+                "Couch potato",
+                "Loves kisses"
+            ],
+            "name": "Rose Quartz",
+            "description": "Say hello to our amazing Rose Quartz!\n\nRose Quartz\u0026#039;s (aka Rose) mom was rescued off the streets of Tijuana while...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/2\/?bust=1650661149\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/2\/?bust=1650661149\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/2\/?bust=1650661149\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/2\/?bust=1650661149"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/3\/?bust=1650661152\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/3\/?bust=1650661152\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/3\/?bust=1650661152\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/3\/?bust=1650661152"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/4\/?bust=1650661155\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/4\/?bust=1650661155\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/4\/?bust=1650661155\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/4\/?bust=1650661155"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/5\/?bust=1650661157\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/5\/?bust=1650661157\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/5\/?bust=1650661157\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/5\/?bust=1650661157"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/6\/?bust=1650661158\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/6\/?bust=1650661158\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/6\/?bust=1650661158\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/6\/?bust=1650661158"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376748\/1\/?bust=1650661146"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:59:19+0000",
+            "published_at": "2022-04-22T20:59:19+0000",
+            "distance": null,
+            "contact": {
+                "email": "Info@pupswithoutborders.org",
+                "phone": "(213) 513-7672",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Van Nuys",
+                    "state": "CA",
+                    "postcode": "91405",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376748"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ca2836"
+                }
+            }
+        },
+        {
+            "id": 55376747,
+            "organization_id": "NY1047",
+            "url": "https:\/\/www.petfinder.com\/dog\/kale-55376747\/ny\/ozone-park\/heavenly-angels-animal-rescue-ny1047\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Kale",
+            "description": "Kale is a 7-8 month old lab mix who weighs currently about 40-45lbs currently. He came from Georgia and is...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/2\/?bust=1650661137\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/2\/?bust=1650661137\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/2\/?bust=1650661137\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/2\/?bust=1650661137"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/3\/?bust=1650661138\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/3\/?bust=1650661138\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/3\/?bust=1650661138\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/3\/?bust=1650661138"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/4\/?bust=1650661138\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/4\/?bust=1650661138\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/4\/?bust=1650661138\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/4\/?bust=1650661138"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/5\/?bust=1650661139\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/5\/?bust=1650661139\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/5\/?bust=1650661139\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/5\/?bust=1650661139"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376747\/1\/?bust=1650661136"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:59:01+0000",
+            "published_at": "2022-04-22T20:59:01+0000",
+            "distance": null,
+            "contact": {
+                "email": "harescue1@aol.com",
+                "phone": "(347) 722-5939",
+                "address": {
+                    "address1": "PO Box 170289",
+                    "address2": null,
+                    "city": "Ozone Park",
+                    "state": "NY",
+                    "postcode": "11417",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376747"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ny1047"
+                }
+            }
+        },
+        {
+            "id": 55376743,
+            "organization_id": "OK61",
+            "url": "https:\/\/www.petfinder.com\/dog\/forrrest-55376743\/ok\/tulsa\/animal-rescue-foundation-ok61\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Forrrest",
+            "description": "Forrest is a male, 12 lb., cream and tan Terrier mix puppy. Forrest\u0026#039;s estimated date of birth is January 1,...",
+            "organization_animal_id": "tokt 14298",
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376743\/1\/?bust=1650661093"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:58:14+0000",
+            "published_at": "2022-04-22T20:58:14+0000",
+            "distance": null,
+            "contact": {
+                "email": "arfhouse@arftulsa.org",
+                "phone": null,
+                "address": {
+                    "address1": "P.O. Box 471483",
+                    "address2": "Tulsa",
+                    "city": "Tulsa",
+                    "state": "OK",
+                    "postcode": "74147",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376743"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/ok61"
+                }
+            }
+        },
+        {
+            "id": 55376742,
+            "organization_id": "TX362",
+            "url": "https:\/\/www.petfinder.com\/dog\/hank-55376742\/tx\/el-paso\/pet-guardian-angel-welfare-association-tx362\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": "Corgi",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Protective",
+                "Quiet",
+                "Curious"
+            ],
+            "name": "Hank",
+            "description": "**All PGA fur-babies MUST be indoor dogs outdoors only to go potty\/play, no matter how old, size or gender!** \n\nCome...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/2\/?bust=1650661063\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/2\/?bust=1650661063\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/2\/?bust=1650661063\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/2\/?bust=1650661063"
+                },
+                {
+                    "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/3\/?bust=1650661064\u0026width=100",
+                    "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/3\/?bust=1650661064\u0026width=300",
+                    "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/3\/?bust=1650661064\u0026width=600",
+                    "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/3\/?bust=1650661064"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=300",
+                "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=450",
+                "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062\u0026width=600",
+                "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/55376742\/1\/?bust=1650661062"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:57:45+0000",
+            "published_at": "2022-04-22T20:57:45+0000",
+            "distance": null,
+            "contact": {
+                "email": "pgawaep4@gmail.com",
+                "phone": "915-598-0411",
+                "address": {
+                    "address1": "14911 McCracken Drive",
+                    "address2": null,
+                    "city": "El Paso",
+                    "state": "TX",
+                    "postcode": "79938",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376742"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tx362"
+                }
+            }
+        },
+        {
+            "id": 55376741,
+            "organization_id": "TX2471",
+            "url": "https:\/\/www.petfinder.com\/dog\/leah-55376741\/tx\/el-paso\/el-paso-animal-services-tx2471\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Doberman Pinscher",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Female",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Leah",
+            "description": null,
+            "organization_animal_id": "34345791",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:57:28+0000",
+            "published_at": "2022-04-22T20:57:28+0000",
+            "distance": null,
+            "contact": {
+                "email": "epasadoptions@elpasotexas.gov",
+                "phone": "(915) 212-7297",
+                "address": {
+                    "address1": "5001 Fred Wilson",
+                    "address2": null,
+                    "city": "El Paso",
+                    "state": "TX",
+                    "postcode": "79906",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376741"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tx2471"
+                }
+            }
+        },
+        {
+            "id": 55376705,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/qamra-55376705\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Medical must stay through review date"
+            ],
+            "name": "Qamra",
+            "description": null,
+            "organization_animal_id": "MAS-A-12815",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376705"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376706,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/passion-55376706\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Negative"
+            ],
+            "name": "Passion",
+            "description": null,
+            "organization_animal_id": "MAS-A-12798",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376706"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376708,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/snow-flake-55376708\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Snow Flake",
+            "description": null,
+            "organization_animal_id": "MAS-A-12796",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376708"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376711,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/katrina-55376711\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Red \/ Chestnut \/ Orange",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Negative"
+            ],
+            "name": "Katrina",
+            "description": null,
+            "organization_animal_id": "MAS-A-12807",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376711"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376712,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/besa-55376712\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Liability Waiver"
+            ],
+            "name": "Besa",
+            "description": null,
+            "organization_animal_id": "MAS-A-12790",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376712"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376713,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/gwendolyn-55376713\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Positive",
+                "Medical must stay through review date",
+                "Urgent"
+            ],
+            "name": "Gwendolyn",
+            "description": null,
+            "organization_animal_id": "MAS-A-12789",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376713"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376714,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/brownie-55376714\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Brown \/ Chocolate",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Brownie",
+            "description": null,
+            "organization_animal_id": "MAS-A-12813",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376714"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376715,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/ruggins-55376715\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White \/ Cream",
+                "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Positive"
+            ],
+            "name": "Ruggins",
+            "description": null,
+            "organization_animal_id": "MAS-A-12786",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376715"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376716,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/shadow-55376716\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Negative"
+            ],
+            "name": "Shadow",
+            "description": null,
+            "organization_animal_id": "MAS-A-12038",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376716"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376717,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/niraasha-55376717\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Niraasha",
+            "description": null,
+            "organization_animal_id": "MAS-A-12823",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376717"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376718,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/sea-sand-55376718\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown \/ Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sea Sand",
+            "description": null,
+            "organization_animal_id": "MAS-A-12797",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376718"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376719,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/beanie-55376719\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Red \/ Chestnut \/ Orange",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Beanie",
+            "description": null,
+            "organization_animal_id": "MAS-A-12809",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376719"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376720,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/bruno-jr-55376720\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": "White \/ Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Heartworm Negative"
+            ],
+            "name": "Bruno Jr",
+            "description": null,
+            "organization_animal_id": "MAS-A-12787",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376720"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        },
+        {
+            "id": 55376721,
+            "organization_id": "TN850",
+            "url": "https:\/\/www.petfinder.com\/dog\/leuwin-55376721\/tn\/memphis\/memphis-animal-services-tn850\/?referrer_id=905681c8-b659-4a90-8f38-aa71e6d06248",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Leuwin",
+            "description": null,
+            "organization_animal_id": "MAS-A-12822",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2022-04-22T20:55:16+0000",
+            "published_at": "2022-04-22T20:55:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "mas@memphistn.gov",
+                "phone": "(901) 636-1416",
+                "address": {
+                    "address1": "2350 Appling City Cove",
+                    "address2": null,
+                    "city": "Memphis",
+                    "state": "TN",
+                    "postcode": "38133",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "\/v2\/animals\/55376721"
+                },
+                "type": {
+                    "href": "\/v2\/types\/dog"
+                },
+                "organization": {
+                    "href": "\/v2\/organizations\/tn850"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 113895,
+        "current_page": 1,
+        "total_pages": 5695,
+        "_links": {
+            "next": {
+                "href": "\/v2\/animals?type=dog\u0026page=2"
+            }
+        }
+    }
+}
